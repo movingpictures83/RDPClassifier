@@ -1,0 +1,2 @@
+Prefix plugins/RDPClassify/example
+Plugin RDPClassify inputfile HMP_MOCK.v35.fasta outputfile classification.txt
