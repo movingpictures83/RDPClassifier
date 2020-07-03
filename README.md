@@ -1,7 +1,9 @@
+# RDPClassify
 # Language: C++
 # Input: FASTA
 # Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: RDP-Classifier tool
 
 PluMA plugin that classifies reads using RDP (Wang et al, 2007).
 
